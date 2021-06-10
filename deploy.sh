@@ -36,7 +36,6 @@ else
   git config --global user.name "renxiaojian"
   git config --global user.email "466814659@qq.com"
 fi
-git init
 git add -A
 git commit -m "${msg}"
 git push -f $githubUrl master:rBlog
