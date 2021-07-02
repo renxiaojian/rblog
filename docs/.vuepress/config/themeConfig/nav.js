@@ -17,7 +17,7 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: '测试', link: '/note/ceshi/' },
+          { text: '日积月累', link: '/note/accumulation/' },
         ],
       },
     ],
