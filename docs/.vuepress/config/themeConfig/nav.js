@@ -33,7 +33,8 @@ module.exports = [
     text: '更多',
     link: '/more/',
     items: [
-      { text: '实用技巧', link: '/pages/baaa02/' }
+      { text: '实用技巧', link: '/pages/baaa02/' },
+      { text: '算法题', link: '/pages/92551c/' }
     ],
   },
   { text: '关于', link: '/about/' },
